@@ -3,7 +3,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 " Colour scheme
-colorscheme md-desert
+colorscheme dunnmj-desert
 set background=dark
 
 " Show line numbers
