@@ -33,6 +33,9 @@ set showmatch
 " Syntax highlighting
 syntax enable
 
+" Use new regular expression engine (improves performance of syntax highlighting)
+set re=0
+
 " 1 tab = 2 spaces
 set shiftwidth=2
 set tabstop=2
